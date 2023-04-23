@@ -1,0 +1,18 @@
+ul {
+  list-style: none;
+}
+
+.tarjetaimagen {
+  width: 100%;
+  padding: 1rem;
+}
+
+body {
+  background-color: rgb(212, 212, 212);
+}
+
+footer {
+  padding: 2rem;
+  text-align: center;
+  color: white;
+}
